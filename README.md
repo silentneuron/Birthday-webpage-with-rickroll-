@@ -1,6 +1,6 @@
-#  Birthday Surprise Webpage with Rickroll Intro
+#  Birthday Webpage with Rickroll 
 
-This project is a fun birthday webpage with the classic Rickroll intro. When someone opens the page, blow the candle and gets rickroolled. This ensures that your friend has the best birthday greating ever.
+This project is a fun birthday webpage with the classic Rickroll. When your friend opens the page, blows the candle and gets rickrolled. This ensures that your friend has the best birthday greating ever.
 
 ---
 
